@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 luisaarias  staff  160 Nov  1 19:31 .
+drwxr-xr-x   3 luisaarias  staff   96 Nov  1 19:28 ..
+drwxr-xr-x  13 luisaarias  staff  416 Nov  1 19:30 .git
+-rw-r--r--   1 luisaarias  staff    9 Nov  1 19:28 README.md
+-rw-r--r--   1 luisaarias  staff    0 Nov  1 19:31 uno.txt
